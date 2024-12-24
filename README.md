@@ -36,8 +36,15 @@ Through this project, I gained experience in:
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
 
+## video
+   ```bash
+   https://one9-text-editor-phor.onrender.com
+
+   ```
+
 ## Installation
 To set up this project on your local machine, follow these steps:
+
 
 1. Clone the repository to your local machine:
    ```bash
